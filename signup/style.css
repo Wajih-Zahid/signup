@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+  }
+  
+  p {
+    font-size: 1rem;
+  }
+  
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    .container {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    h1 {
+      font-size: 1.3rem;
+    }
+  }
+  
+   
+  
+  
+  
